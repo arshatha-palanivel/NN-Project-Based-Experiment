@@ -26,11 +26,14 @@ Evaluate the model on the test set to get a final measure of its performance.Ana
 If the model is not performing well, experiment with different architectures, regularization techniques, or optimization algorithms to improve performance.
 ## Visualization:
 Visualize the training/validation loss and accuracy over epochs to understand the training process. Visualize some misclassified examples to gain insights into potential improvements.
-```
-ROHIT JAIN D
-212222230120
-```
+
+
 # Program:
+
+DEVELOPED BY : ARSHATHA.P
+
+REGISTER NUMBER : 212222230012
+
 ```Python
 import numpy as np
 import tensorflow as tf
@@ -77,3 +80,5 @@ plt.show()
 ![326254366-13dd70e4-e7c0-4859-9bdb-e80072d26360](https://github.com/ROHITJAIND/NN-Project-Based-Experiment/assets/118707073/76ec56e5-0253-4c52-aa2a-cc5522abe87e)
 ![326254383-dc635a4b-3308-470b-b663-41195ad54a75](https://github.com/ROHITJAIND/NN-Project-Based-Experiment/assets/118707073/a70306f1-0436-4e61-84d4-ac04081141fd)
 
+### Result:
+Thus a Multilayer Perceptron (MLP) to classify handwritten digits in python is build.
